@@ -1,1 +1,3 @@
 # BoyScoutRule
+
+I made several changes to the code to make it easier to read and understand. Firstly, I indented and spaced the code to improve its readability. Secondly, I added "alt" attributes to the "img" tags for accessibility. Thirdly, I added "ID" attributes to the "h2" tags for each section to make it easier to link to them. Fourthly, I moved the CSS link to the "head" section of the code to improve the page's load time. Additionally, I reordered the "benefits" section to match the order of the "heading" section. Lastly, I changed the page's title to better reflect its content.
